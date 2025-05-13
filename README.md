@@ -69,7 +69,3 @@ Durante o desenvolvimento do projeto, foram reforçados os seguintes tópicos:
 - Uso de **tipos genéricos para abstração de comportamento**
 - Trabalho com **regras de negócio orientadas a serviços**
 - Compreensão prática do **polimorfismo em Java**
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
